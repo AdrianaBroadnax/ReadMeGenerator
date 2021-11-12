@@ -16,17 +16,21 @@ function generateMarkdown(data) {
 
 ${data.description}
 
-## installation
+## Installation
 
 ${data.install}
 
-## Testing
-
-
-
 ## Usage
 
+${data.usage}
 
+## Contribution
+
+${data.contribution}
+
+## Testing
+
+${data.test}
 
 ## Questions
 
