@@ -20,4 +20,8 @@ Last function will export the generateMarkdown.
 
 Deployed links:
 
+https://github.com/AdrianaBroadnax/ReadMeGenerator.git
+https://adrianabroadnax.github.io/ReadMeGenerator/
+
+
 Screen Record: 

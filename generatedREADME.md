@@ -1,22 +1,24 @@
-# MazeGen
+# ReadMeGenerator
 
-a mazde generator
+It's a generator that makes readme
 
 ## Installation
 
-from the app store
+apple store
 
 ## Usage
 
-by clicking start on the app and seeing how many mazes you can complete
+to help guide me thru projects
 
 ## Contribution
 
-by making the maze
+by completing each task
 
 ## Testing
 
-yes
+y
 
 ## Questions
+
+If you have any questions, contact me on Github here undefined or by email at undefined.
 
