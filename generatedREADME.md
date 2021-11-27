@@ -1,18 +1,18 @@
-# ReadMeGenerator
+# weight loss journey
 
-It's a generator that makes readme
+a calender log for weight loss progression
 
 ## Installation
 
-apple store
+apple store or play store
 
 ## Usage
 
-to help guide me thru projects
+to keep track on weight loss journey
 
 ## Contribution
 
-by completing each task
+by inputing the data needed to stay on track
 
 ## Testing
 
